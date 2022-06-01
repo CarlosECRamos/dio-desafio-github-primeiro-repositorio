@@ -1,0 +1,6 @@
+Principais comando:
+git init
+git status
+git add *
+git commit -m "descricao"
+git push origin main
